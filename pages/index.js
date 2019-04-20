@@ -29,7 +29,7 @@ const Index = () => {
           />
         </section>
         <section className="max-w-full md:mx-10 px-4">
-          <h1 className="text-pink-400 text-4xl mb-3 font-bold mb-10">
+          <h1 className="text-pink-400 text-6xl mb-3 font-bold mb-10">
             SayThanks
           </h1>
           <p className="text-3xl font-light text-grey-500 mb-2 ">
